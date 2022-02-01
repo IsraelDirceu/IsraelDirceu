@@ -4,9 +4,10 @@ package javaexecutavel;
 public class PrimeiraClasseJava {
 	public static void main(String[] args) {
 		
-		/*Ecreve texto no console*/
+		/*Ecreve texto no 999 console*/
 		System.out.println("Meu Primeiro Programa em Java!! ");
 		System.out.println("Alo");
+		System.out.println("Israel");
 	}
 
 }
